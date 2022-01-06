@@ -1,0 +1,42 @@
+body{
+    
+    }
+h1{
+    font-size: 50px;
+    font-family: 'Licorice', cursive;
+}
+
+h2{
+    font-size: 50px;
+   font-family: 'Luxurious Roman', cursive;;
+}
+.chocolate-color{
+    color:chocolate;
+}
+
+.left-side {
+    padding-left: 30px;
+    border-left: 10px solid #800000;
+}
+
+.right-side{
+    width: 30%;
+    padding-left: 10%;
+}
+
+.right-side img{
+    width:80%;
+}
+
+section{
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.link-button{
+    color: black;
+    background-color: rgb(150, 77, 43);
+    padding: 10px 40px;
+    font-weight: 700;
+}
+
