@@ -8,15 +8,20 @@ h1{
 
 h2{
     font-size: 50px;
-   font-family: 'Luxurious Roman', cursive;;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 .chocolate-color{
     color:chocolate;
 }
 
+.button-color{
+    padding: 10px 40px;
+    font-weight: 700;
+    color: black;
+    background-color: rgb(160, 18, 160);
+}
 .left-side {
     padding-left: 30px;
-    border-left: 10px solid #800000;
 }
 
 .right-side{
@@ -40,3 +45,21 @@ section{
     font-weight: 700;
 }
 
+.change-side{
+    padding-left: 150px;
+    text-align: left;
+}
+.footer{
+    background-color: black;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    text-align: center;
+} 
+    .style{  
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+    }
