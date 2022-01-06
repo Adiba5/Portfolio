@@ -52,6 +52,15 @@ h2{
     font-weight: 700;
 }
 
+#display {
+    border-radius: 20px 15px 0px 0;
+    width: 50%;
+    float: left;
+    margin-left: 4%;
+    padding: 0 2% 2% 2%;
+    border-image: linear-gradient(45deg, #040404, #0a0a0a);
+}
+
 .change-side{
     padding-left: 150px;
     text-align: left;
